@@ -63,8 +63,8 @@
 			{"key": "5_1_12", "target": "_top", "title": "PowerFolder", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/PowerFolder_11.2.312.exe", "tooltip": "PowerFolder_11.2.312.exe" },
 			{"key": "5_1_13", "target": "_top", "title": "WinSCP Portable FTP&WebDav", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/WinSCP_FTP_WebDav_Portable_5.9.3.zip", "tooltip": "WinSCP_FTP_WebDav_Portable_5.9.3.zip" }
         ]},
-		{"key": "5_2", "target": "_top", "title": "Chrome 32", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Chrome_32_.exe", "tooltip": "Chrome_32_.exe" },
-		{"key": "5_3", "target": "_top", "title": "Chrome 64", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Chrome_64_.exe", "tooltip": "Chrome_64_.exe" },
+		{"key": "5_2", "target": "_top", "title": "Chrome 32", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Chrome_32_56.0.2924.76.exe", "tooltip": "Chrome_32_56.0.2924.76.exe" },
+		{"key": "5_3", "target": "_top", "title": "Chrome 64", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Chrome_64_56.0.2924.76.exe", "tooltip": "Chrome_64_56.0.2924.76.exe" },
 		{"key": "5_4", "target": "_top", "title": "Firefox 32", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Firefox_32_51.0.exe", "tooltip": "Firefox_32_51.0.exe" },
 		{"key": "5_5", "target": "_top", "title": "Firefox 64", "href": "https://my.powerfolder.com/open/MlJZYVgyeUJ6OTUxMUJXZW5FUFhx/ProgsDiversos/Internet&Rede/Firefox_64_51.0.exe", "tooltip": "Firefox_64_51.0.exe" },
         {"key": "5_6", "target": "_parent", "title": "Firefox Add-Ons", "folder": true, "href": "Public/Firefox_Add-on/", "tooltip": "Firefox Add-ons"},
