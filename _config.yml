@@ -1,26 +1,26 @@
+---
+title: Itsuporte
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 safe: false
 lsi: false
 highlighter: rouge
-
-relative_source: .
-destination: ./_site
-
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
+relative_source: "."
+destination: "./_site"
 username: itsuporte
 repo: itsuporte.github.io
 branch: master
-
 exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - vendor
-  - .travis.yml
+- README.md
+- Rakefile
+- Gemfile
+- Gemfile.lock
+- changelog.md
+- vendor
+- ".travis.yml"
